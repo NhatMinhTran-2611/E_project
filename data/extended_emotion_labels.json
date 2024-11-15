@@ -1,0 +1,14 @@
+{
+  "cảm xúc chính": [
+    "hạnh phúc", "buồn bã", "tức giận", "sợ hãi", "ngạc nhiên", "ghê tởm", "tin tưởng", "kỳ vọng"
+  ],
+  "cảm xúc tích cực": [
+    "hạnh phúc", "tin tưởng", "ngưỡng mộ", "yêu mến", "lạc quan", "tình yêu", "niềm vui", "tự tin", "hài lòng", "biết ơn"
+  ],
+  "cảm xúc tiêu cực": [
+    "tức giận", "buồn bã", "sợ hãi", "ghê tởm", "bực bội", "ghen tị", "oán giận", "cay đắng", "bi quan", "tội lỗi", "hối tiếc"
+  ],
+  "cảm xúc trung tính": [
+    "tò mò", "tập trung", "quan sát", "suy ngẫm", "chú ý", "suy tư", "bình tĩnh", "hỗn độn", "thờ ơ", "trung lập"
+  ]
+}

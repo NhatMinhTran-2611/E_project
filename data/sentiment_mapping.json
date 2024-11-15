@@ -1,0 +1,11 @@
+{
+  "tích cực": [
+    "hạnh phúc", "niềm vui", "phấn khởi", "yêu thương", "hài lòng", "lòng biết ơn", "hy vọng", "bình yên", "vui thích", "phấn khích tột độ", "vui mừng", "ngưỡng mộ", "tin tưởng", "yêu quý", "trân trọng", "nhiệt tình", "ấm áp", "tự hào", "kính trọng", "cảm thông"
+  ],
+  "tiêu cực": [
+    "tức giận", "buồn bã", "sợ hãi", "ghê tởm", "bực bội", "cảm giác tội lỗi", "hối hận", "xấu hổ", "trầm cảm", "lo âu", "chán nản", "đố kỵ", "ghen tuông", "oán giận", "phản bội", "bị làm nhục", "hối tiếc", "thất vọng", "mất tự tin", "bất mãn"
+  ],
+  "trung lập": [
+    "ngạc nhiên", "bối rối",  "thờ ơ", "bình tĩnh", "quan tâm", "tò mò", "mong đợi", "tập trung", "suy tư", "quan sát", "suy nghĩ", "thiền định", "hiểu biết sâu sắc", "nhận thức", "chú ý", "suy nghĩ mở", "xem xét"
+  ]
+}

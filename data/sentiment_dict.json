@@ -1,0 +1,14 @@
+{
+  "tích cực": [
+    "vui", "hạnh phúc", "yêu thương", "hào hứng", "tuyệt vời", "tuyệt diệu", "xuất sắc", "tuyệt đẹp", "biết ơn", "hy vọng", "lạc quan", "hài lòng", "phấn khởi", "thoả mãn", "vui sướng", "bình yên", "vui vẻ", "may mắn", "rạng rỡ", "phấn chấn",
+    "nhiệt tình", "dễ chịu", "vui mừng", "sung sướng", "cảm hứng", "thành công", "chiến thắng", "viên mãn", "tự hào", "sinh động", "hân hoan", "tràn đầy năng lượng", "hân hoan", "an ủi", "tích cực", "duyên dáng", "vui tươi", "được trân trọng", "ân cần"
+  ],
+  "tiêu cực": [
+    "buồn", "tức giận", "bực bội", "ghét", "tệ", "thất vọng", "khổ sở", "kinh khủng", "buồn bã", "trầm cảm", "lo lắng", "cô đơn", "tuyệt vọng", "hối tiếc", "oán giận", "xấu hổ", "cảm giác tội lỗi", "bi quan", "tuyệt vọng", "sợ hãi",
+    "lo ngại", "sợ hãi tột độ", "kinh hoàng", "bất an", "ghê tởm", "không hài lòng", "tổn thương", "ghen tị", "bất lực", "bị sỉ nhục", "bị xúc phạm", "bị từ chối", "chán nản", "hối hận", "nghi ngờ", "khó chịu", "cảm giác thấp kém", "cay đắng", "vô giá trị"
+  ],
+  "trung lập": [
+    "ổn", "bình thường", "trung bình", "trung lập", "được", "bình thản", "thờ ơ", "chán", "tò mò", "ngạc nhiên", "bối rối", "mâu thuẫn", "không chắc chắn", "do dự", "bình tĩnh", "tập trung", "cân bằng", "quan sát", "tập trung",
+    "suy tư", "dè dặt", "cẩn trọng", "suy nghĩ", "chín chắn", "thư giãn", "bình thản", "không lo lắng", "kiên định", "khoan dung", "thấu hiểu", "không quan tâm", "khách quan", "vô cảm", "quan sát", "điềm tĩnh", "cởi mở"
+  ]
+}
